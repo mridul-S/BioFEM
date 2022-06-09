@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1442944864 source:d:\last desktop\final for iut code and result.new\2d materials\2d fem\main.c
+	"declearation.h"
+	"bc_setup.h"
+	"conductivity_matrix.h"
+	"internal_heat_generation.h"
+	"add_eliminated_portion.h"
+
+1442943590 d:\last desktop\final for iut code and result.new\2d materials\2d fem\declearation.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1442728646 d:\last desktop\final for iut code and result.new\2d materials\2d fem\conductivity_matrix.h
+	"declearation.h"
+
+1442730688 d:\last desktop\final for iut code and result.new\2d materials\2d fem\internal_heat_generation.h
+	"declearation.h"
+
+1442942693 d:\last desktop\final for iut code and result.new\2d materials\2d fem\add_eliminated_portion.h
+	"declearation.h"
+
+1442946917 d:\last desktop\final for iut code and result.new\2d materials\2d fem\bc_setup.h
+	"declearation.h"
+
+1442947619 source:d:\last desktop\final for iut code and result.new\2d materials\2d fem\2nd.bc_setup.c
+
+1442944019 source:d:\1d 2d 3d\2d fem.secondary\2nd.bc_setup.c
+
+1445873129 source:d:\1d 2d 3d\2d fem.secondary\main.c
+	"declearation.h"
+	"1st.bc_setup.h"
+	"2nd.bc_setup.h"
+	"conductivity_matrix.h"
+	"internal_heat_generation.h"
+	"add_eliminated_portion.h"
+	"row_colume_elimination.h"
+	"right_side_vector_elimination.h"
+	"gauss_elimination.h"
+	"convection_bc_matrix.h"
+	"gauss_elim.h"
+	"capacitance_matrix.h"
+
+1445789689 d:\1d 2d 3d\2d fem.secondary\declearation.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1445872028 d:\1d 2d 3d\2d fem.secondary\1st.bc_setup.h
+	"declearation.h"
+
+1445872042 d:\1d 2d 3d\2d fem.secondary\2nd.bc_setup.h
+	"declearation.h"
+
+1445873161 d:\1d 2d 3d\2d fem.secondary\conductivity_matrix.h
+	"declearation.h"
+
+1445848954 d:\1d 2d 3d\2d fem.secondary\internal_heat_generation.h
+	"declearation.h"
+
+1445872014 d:\1d 2d 3d\2d fem.secondary\add_eliminated_portion.h
+	"declearation.h"
+
+1444154782 d:\1d 2d 3d\2d fem.secondary\row_colume_elimination.h
+	"declearation.h"
+
+1444223168 d:\1d 2d 3d\2d fem.secondary\right_side_vector_elimination.h
+	"declearation.h"
+
+1443634460 d:\1d 2d 3d\2d fem.secondary\gauss_elimination.h
+	"declearation.h"
+
+1445789973 d:\1d 2d 3d\2d fem.secondary\convection_bc_matrix.h
+	"declearation.h"
+
+1444158105 d:\1d 2d 3d\2d fem.secondary\gauss_elim.h
+	"declearation.h"
+
+1445789960 d:\1d 2d 3d\2d fem.secondary\capacitance_matrix.h
+	"declearation.h"
+
